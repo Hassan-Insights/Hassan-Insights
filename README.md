@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Muhammad Hassan
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Muhammad Hassan">
+</p>
+# Hi, I'm Muhammad Hassan
 
 ### 📊 Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
